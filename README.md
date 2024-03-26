@@ -26,3 +26,5 @@
 
 # Example:
 # ./SDEproject.sh input_data.txt 2 5
+
+# See long form report in RoundRobinAlgorithmReport.pdf
